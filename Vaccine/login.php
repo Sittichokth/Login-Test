@@ -9,8 +9,8 @@
     <title>login - Vaccine</title>
 </head>
 <body>
-    <h1>SingIN Account</h1>
     <form action="register_db.php">
+        <h1>SingIN Account</h1>
         <div class="input-gruop">
             <label for="username">Username</label>
             <input type="text" name="username" id="username">
